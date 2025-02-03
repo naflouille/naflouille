@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hello! I'm naflouille
+### 🌟 About me
+* I'm an IT student working on several projects with huge ambitions
+* Fan of everything frontend and backend related
+* Lead developer of [Naflows](https://naflows.com)
+* I'm always trying to learn new things!
 
-<!--
-**naflouille/naflouille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 My tech stack
+* **Languages:** Javascript, TypeScript, React, Python, Java, web-related languages (HTML, CSS)
+* **Backend Frameworks**: NodeJS, Express
+* **Database**: mySQL (SQLite3)
+* **Tools**: Git, Raspberry PI, Ubuntu server
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☕ Support my work
+If you like what I do, please consider buying me a coffee!<br><br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N0W3P7P)
