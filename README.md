@@ -6,7 +6,7 @@
 * I'm always trying to learn new things!
 
 ### 💻 My tech stack
-* **Languages:** Javascript, TypeScript, React, Python, Java, web-related languages (HTML, CSS)
+* **Languages:** Javascript, TypeScript, React, Python, Java, web-related languages (HTML, CSS, Javascript)
 * **Backend Frameworks**: NodeJS, Express
 * **Database**: mySQL (SQLite3)
 * **Tools**: Git, Raspberry PI, Ubuntu server
