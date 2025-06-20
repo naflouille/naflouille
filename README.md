@@ -12,5 +12,8 @@
 * **Tools**: Git, Raspberry PI, Ubuntu server, Docker
 
 ### ☕ Support my work
-If you like what I do, please consider buying me a coffee!<br><br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N0W3P7P)
+If you like what I do, please consider sponsoring my business, or buying me a coffee!<br><br>
+[:heart: Sponsor](https://github.com/sponsors/Naflows)
+
+[:coffee: Ko-Fi](https://ko-fi.com/N4N0W3P7P)
+
