@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm naflouille
 ### 🌟 About me
 * I'm an IT student working on several projects with huge ambitions
-* Fan of everything frontend and backend related
+* Fan of everything frontend and backend related since 2020
 * Fullstack lead developer of [Naflows](https://naflows.com)
 * I'm always trying to learn new things!
 
